@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Yo como cliente del almacén demoblaze" skipped="0" tests="2" time="21.97" timestamp="2021-10-06 11:06:03"><testcase name="Validacion de productos de la categoria &quot;Laptops&quot; en navegador &lt;navegadorEligido&gt;"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Yo como cliente del almacén demoblaze" skipped="0" tests="2" time="2.31" timestamp="2022-03-14 01:53:16"><testcase name="Validacion de productos de la categoria &quot;Laptops&quot; en navegador &lt;navegadorEligido&gt;"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+co.com.proyectobase.screenplay.tasks.OpenPage.performAs(OpenPage.java:13)&#13;
+co.com.proyectobase.screenplay.stepdefinitions.AppTestStepDefinitions.elUsuarioSeEncuetraEnLaPáginaDePortalDemoblize(AppTestStepDefinitions.java:55)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
